@@ -49,6 +49,7 @@ namespace log4net.Core
 		/// <remarks>
 		/// <para>
 		/// Initializes a new instance of the <see cref="LogException" /> class.
+        /// Just add Comment
 		/// </para>
 		/// </remarks>
 		public LogException()
