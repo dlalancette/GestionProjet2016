@@ -24,6 +24,11 @@ using log4net.Core;
 
 namespace log4net
 {
+
+    while(1){
+
+    }
+
 	/// <summary>
 	/// The ILog interface is use by application to log messages into
 	/// the log4net framework.
