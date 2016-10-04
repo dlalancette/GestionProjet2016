@@ -1,16 +1,16 @@
-Project Status
+État du Projet
 ==============
 
-Apache log4net is a sub project of the Apache Logging Services project. 
-Apache log4net graduated from the Apache Incubator in February 2007.
-Web site: http://logging.apache.org/log4net
+Apache log4net est un sous-projet du projet du Service de Connexion d'Apache
+Apache log4net à graduer de l'incubateur Apache en février 2007
+Site web: http://logging.apache.org/log4net
 
 
 Documentation
 =============
 
-For local documentation, which is correct for this release see:
+Pour de la documentation locale, étant adéquate pour cette version voir:
 doc/index.html
 
-For the latest documentation see the log4net web site at:
+Pour la dernière documentation, voir le site internet de log4net sur:
 http://logging.apache.org/log4net
