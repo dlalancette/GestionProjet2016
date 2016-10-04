@@ -27,7 +27,12 @@ using System.Runtime.CompilerServices;
 [assembly: System.Runtime.InteropServices.ComVisible(false)]
 #endif
 
-/*bref description de la runtime */
+/*bref description de la runtime 
+ *
+ *
+ *
+ *
+ */
 
 //
 // log4net is CLS compliant
