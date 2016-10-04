@@ -22,6 +22,8 @@ using System.Collections;
 
 using log4net.Util;
 
+using namespace std;
+
 namespace log4net
 {
 	/// <summary>
